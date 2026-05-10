@@ -36,11 +36,14 @@ Designed for real-world logistics, this protocol allows supply chain systems to 
 🌐 Deployment
 
 * Network: Cypher
+  ⸻
 CONTRACT ADDRESSES
 
 Entity	Address
 Proxy	0x2015E0a1C04564585833B6E884Cf2Dc415874f03
+
 ProxyAdmin	0x8Ee92aC18b2453c92b130b8f710990B9C164a3dC
+
 Current Owner	0x8A6eA2dCAbdFC84f24f3163B3f0043c36074DB64
 ⸻
 
